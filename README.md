@@ -18,7 +18,7 @@ The project includes test cases to evaluate the system's performance in various 
 * **Unexpected Events**: Simulate power outages and assess the system's ability to maintain data consistency and resume production.
 * **Additional Considerations**: Test the system's performance in managing cleaning cycles, stock management, and production limits.
 ## Usage
-1. Clone the repository:\br
+1. Clone the repository: <br>
 git clone https://github.com/yourusername/ice-cream-factory.git
 2. Compile the code:\br
 gcc -o ice_cream_factory ice_cream_factory.c -lpthread
